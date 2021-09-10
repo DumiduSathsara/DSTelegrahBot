@@ -30,7 +30,7 @@ Hit help button to find out more about how to use me</b>""",
                                             "Channel", url="https://t.me/DsC_Offl")
                                     ],[
                                       InlineKeyboardButton(
-                                            "Source Code", url="https://github.com/ImJanindu/JETelegraphBot")
+                                            "Source Code", url="https://github.com/DumiduSathsara/DSTelegraphBot")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -54,7 +54,7 @@ Just send a photo or video less than 5mb file size, I'll upload it to telegraph.
                                             "About", callback_data="about"),
                                   ],[
                                         InlineKeyboardButton(
-                                            "Source Code", url="https://github.com/DumiduSathara/DSTelegraphBot")
+                                            "Source Code", url="https://github.com/DumiduSathsara/DSTelegraphBot")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -67,7 +67,7 @@ async def about(client, message):
                chat_id=message.chat.id,
                text="""<b>About Telegraph Bot!</b>
 
-<b>♞ Developer:</b> <a href="https://t.me/DumiduSathara">Dumidu Sathara 🇱🇰</a>
+<b>♞ Developer:</b> <a href="https://t.me/DumiduSathara">Dumidu Sathsara 🇱🇰</a>
 
 <b>♞ Support:</b> <a href="https://t.me/DsC_Chat">DsC Chat</a>
 
